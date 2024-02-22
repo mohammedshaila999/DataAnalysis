@@ -1,3 +1,3 @@
 select * from sales
-where GeoID = 'G1'
+where GeoID = 'G2'
 order by PID, Amount;
